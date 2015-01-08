@@ -29,6 +29,7 @@ var main = function() {
     }
     var footer = function () {
         $("a").animate({opacity:"1"}, "slow");
+        setTimeout()
     }
     $(".logo1").animate({opacity:"1"},"slow"); 
     setTimeout(hexa1,300);
