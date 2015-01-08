@@ -1,41 +1,56 @@
-#mainlogo {
-	width: 200px; 
+body {
+    background-color: #7F7F7F;
 }
 
-#sub {
-	text-align: right;
+.hexes {
+    position: relative;
+    text-align: center;
+    height: 500px;
+    width: 800px;
+    top: 100;
+    margin: 0 auto;
 }
 
-.nav a {
-  color: #000000;
-  font-size: 10px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
+hexes.hex1 {
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.nav li {
-  display: inline;
+.hex2 {
+    position: absolute;
+    top: 76;
+    left: 451;
 }
 
-.jumbotron h1 {
-
-	text-align: center;
-	text-shadow: none;
+.hex3 {
+    position: absolute;
+    top: 225;
+    left: 451;
 }
 
-.jumbotron p {
-
-	text-align: center;
-	text-shadow: none;
+.hex4 {
+    position: absolute;
+    top: 297;
+    left: 317;
 }
 
-.crop {
-	width: 300px;
-	height: 300px;
-	overflow: hidden;
+.hex5 {
+    position: absolute;
+    top: 225;
+    left: 182;
 }
 
-.crop img {
-	width: 300px;
+.hex6 {
+    position: absolute;
+    top: 76;
+    left: 182;
+}
+
+.hexc {
+    position: absolute;
+    top: 148;
+    left: 317;
+    width: %;
 }
