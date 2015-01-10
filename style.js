@@ -7,6 +7,7 @@ var main = function () {
     $("#paris").hide();
     $("#translucent").hide();
     $("#cover").hide();
+    $(".previews").animate({opacity:"1"},"slow");
     
     var hexa1 = function () { 
         $(".hexes").animate({opacity:"1"},"slow");
