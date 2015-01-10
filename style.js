@@ -129,59 +129,59 @@ var main = function () {
     });
     
     $(".hex1").mouseover(function() {
-        $(".hex1").animate({background:"black", opacity:"0.75"}, "fast");
+        $(".hex1").animate({background:"black", opacity:"0.75"}, 150);
     });
     
     $(".hex1").mouseout(function() {
-        $(".hex1").animate({background:"black", opacity:"1"}, "fast");
+        $(".hex1").animate({background:"black", opacity:"1"}, 150 );
     });
     
     $(".hex2").mouseover(function() {
-        $(".hex2").animate({background:"black", opacity:"0.75"}, "fast");
+        $(".hex2").animate({background:"black", opacity:"0.75"}, 150);
     });
     
     $(".hex2").mouseout(function() {
-        $(".hex2").animate({background:"black", opacity:"1"}, "fast");
+        $(".hex2").animate({background:"black", opacity:"1"}, 150);
     });
     
     $(".hex3").mouseover(function() {
-        $(".hex3").animate({background:"black", opacity:"0.75"}, "fast");
+        $(".hex3").animate({background:"black", opacity:"0.75"}, 150);
     });
     
      $(".hex3").mouseout(function() {
-        $(".hex3").animate({background:"black", opacity:"1"}, "fast");
+        $(".hex3").animate({background:"black", opacity:"1"}, 150);
     });
     
     $(".hex4").mouseover(function() {
-        $(".hex4").animate({background:"black", opacity:"0.75"}, "fast");
+        $(".hex4").animate({background:"black", opacity:"0.75"}, 150);
     });
     
     $(".hex4").mouseout(function() {
-        $(".hex4").animate({background:"black", opacity:"1"}, "fast");
+        $(".hex4").animate({background:"black", opacity:"1"}, 150);
     });
     
     $(".hex5").mouseover(function() {
-        $(".hex5").animate({background:"black", opacity:"0.75"}, "fast");
+        $(".hex5").animate({background:"black", opacity:"0.75"}, 150);
     });
     
     $(".hex5").mouseout(function() {
-        $(".hex5").animate({background:"black", opacity:"1"}, "fast");
+        $(".hex5").animate({background:"black", opacity:"1"}, 150);
     });
     
     $(".hex6").mouseover(function() {
-        $(".hex6").animate({background:"black", opacity:"0.75"}, "fast");
+        $(".hex6").animate({background:"black", opacity:"0.75"}, 150);
     });
     
      $(".hex6").mouseout(function() {
-        $(".hex6").animate({background:"black", opacity:"1"}, "fast");
+        $(".hex6").animate({background:"black", opacity:"1"}, 150);
     });
     
     $(".hexc").mouseover(function() {
-        $(".hexc").animate({background:"black", opacity:"0.75"}, "fast");
+        $(".hexc").animate({background:"black", opacity:"0.75"}, 150);
     });
     
      $(".hexc").mouseout(function() {
-        $(".hexc").animate({background:"black", opacity:"1"}, "fast");
+        $(".hexc").animate({background:"black", opacity:"1"}, 150);
     });
     
     
