@@ -128,6 +128,63 @@ var main = function () {
         $("#cover").css("z-index", 0 );
     });
     
+    $(".hex1").mouseover(function() {
+        $(".hex1").animate({background:"black", opacity:"0.75"}, "fast");
+    });
+    
+    $(".hex1").mouseout(function() {
+        $(".hex1").animate({background:"black", opacity:"1"}, "fast");
+    });
+    
+    $(".hex2").mouseover(function() {
+        $(".hex2").animate({background:"black", opacity:"0.75"}, "fast");
+    });
+    
+    $(".hex2").mouseout(function() {
+        $(".hex2").animate({background:"black", opacity:"1"}, "fast");
+    });
+    
+    $(".hex3").mouseover(function() {
+        $(".hex3").animate({background:"black", opacity:"0.75"}, "fast");
+    });
+    
+     $(".hex3").mouseout(function() {
+        $(".hex3").animate({background:"black", opacity:"1"}, "fast");
+    });
+    
+    $(".hex4").mouseover(function() {
+        $(".hex4").animate({background:"black", opacity:"0.75"}, "fast");
+    });
+    
+    $(".hex4").mouseout(function() {
+        $(".hex4").animate({background:"black", opacity:"1"}, "fast");
+    });
+    
+    $(".hex5").mouseover(function() {
+        $(".hex5").animate({background:"black", opacity:"0.75"}, "fast");
+    });
+    
+    $(".hex5").mouseout(function() {
+        $(".hex5").animate({background:"black", opacity:"1"}, "fast");
+    });
+    
+    $(".hex6").mouseover(function() {
+        $(".hex6").animate({background:"black", opacity:"0.75"}, "fast");
+    });
+    
+     $(".hex6").mouseout(function() {
+        $(".hex6").animate({background:"black", opacity:"1"}, "fast");
+    });
+    
+    $(".hexc").mouseover(function() {
+        $(".hexc").animate({background:"black", opacity:"0.75"}, "fast");
+    });
+    
+     $(".hexc").mouseout(function() {
+        $(".hexc").animate({background:"black", opacity:"1"}, "fast");
+    });
+    
+    
     $("#jack").click(function() {
         $("#jack").fadeOut("fast");
         $(".hex1").fadeIn("fast");
