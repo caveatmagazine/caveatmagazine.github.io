@@ -45,7 +45,7 @@ var main = function () {
     setTimeout(hexa1,300);
     
     $(".hex1").click(function() {
-        $(".hex1").fadeOut("fast");
+        /*$(".hex1").fadeOut("fast");
         $(".hex2").fadeOut("fast");
         $(".hex3").fadeOut("fast");
         $(".hex4").fadeOut("fast");
@@ -53,11 +53,11 @@ var main = function () {
         $(".hex6").fadeOut("fast");
         $(".hexc").fadeOut("fast");
         $("#jack").fadeIn("fast");
-        $("#jack").css("z-index", 0 );
+        $("#jack").css("z-index", 0 );*/
     });
     
     $(".hex2").click(function() {
-        $(".hex1").fadeOut("fast");
+        /*$(".hex1").fadeOut("fast");
         $(".hex2").fadeOut("fast");
         $(".hex3").fadeOut("fast");
         $(".hex4").fadeOut("fast");
@@ -65,11 +65,11 @@ var main = function () {
         $(".hex6").fadeOut("fast");
         $(".hexc").fadeOut("fast");
         $("#art").fadeIn("fast");
-        $("#art").css("z-index", 0 );
+        $("#art").css("z-index", 0 );*/
     });
     
     $(".hex3").click(function() {
-        $(".hex1").fadeOut("fast");
+        /*$(".hex1").fadeOut("fast");
         $(".hex2").fadeOut("fast");
         $(".hex3").fadeOut("fast");
         $(".hex4").fadeOut("fast");
@@ -77,11 +77,11 @@ var main = function () {
         $(".hex6").fadeOut("fast");
         $(".hexc").fadeOut("fast");
         $("#lipservice").fadeIn("fast");
-        $("#lipservice").css("z-index", 0 );
+        $("#lipservice").css("z-index", 0 );*/
     });
     
     $(".hex4").click(function() {
-        $(".hex1").fadeOut("fast");
+        /*$(".hex1").fadeOut("fast");
         $(".hex2").fadeOut("fast");
         $(".hex3").fadeOut("fast");
         $(".hex4").fadeOut("fast");
@@ -89,11 +89,11 @@ var main = function () {
         $(".hex6").fadeOut("fast");
         $(".hexc").fadeOut("fast");
         $("#children").fadeIn("fast");
-        $("#children").css("z-index", 0 );
+        $("#children").css("z-index", 0 );*/
     });
     
     $(".hex5").click(function() {
-        $(".hex1").fadeOut("fast");
+        /*$(".hex1").fadeOut("fast");
         $(".hex2").fadeOut("fast");
         $(".hex3").fadeOut("fast");
         $(".hex4").fadeOut("fast");
@@ -101,11 +101,11 @@ var main = function () {
         $(".hex6").fadeOut("fast");
         $(".hexc").fadeOut("fast");
         $("#paris").fadeIn("fast");
-        $("#paris").css("z-index", 0 );
+        $("#paris").css("z-index", 0 );*/
     });
     
     $(".hex6").click(function() {
-        $(".hex1").fadeOut("fast");
+        /*$(".hex1").fadeOut("fast");
         $(".hex2").fadeOut("fast");
         $(".hex3").fadeOut("fast");
         $(".hex4").fadeOut("fast");
@@ -113,11 +113,11 @@ var main = function () {
         $(".hex6").fadeOut("fast");
         $(".hexc").fadeOut("fast");
         $("#translucent").fadeIn("fast");
-        $("#translucent").css("z-index", 0 );
+        $("#translucent").css("z-index", 0 );*/
     });
     
     $(".hexc").click(function() {
-        $(".hex1").fadeOut("fast");
+        /*$(".hex1").fadeOut("fast");
         $(".hex2").fadeOut("fast");
         $(".hex3").fadeOut("fast");
         $(".hex4").fadeOut("fast");
@@ -125,7 +125,7 @@ var main = function () {
         $(".hex6").fadeOut("fast");
         $(".hexc").fadeOut("fast");
         $("#cover").fadeIn("fast");
-        $("#cover").css("z-index", 0 );
+        $("#cover").css("z-index", 0 );*/
     });
     
     $(".hex1").mouseover(function() {
